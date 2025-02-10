@@ -4,7 +4,7 @@ I'm a self-taught passionate developer from China 🇨🇳
 </br>
 
 <!-- GitHub 数据统计 -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lijia-git&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijia-git&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lijia-git&show_icons=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijia-git&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!--  文字介绍 -->
