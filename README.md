@@ -18,7 +18,6 @@ I'm a self-taught passionate developer from China 🇨🇳
 ### 💬&nbsp; Contact Me
 
 - Email：800659@gmail.com
-- TG：@JasonLeo_tg
 <div align="center" >
 <!--  skill badge 技能徽章 -->
 
